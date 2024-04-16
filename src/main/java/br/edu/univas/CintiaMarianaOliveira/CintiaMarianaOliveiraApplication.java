@@ -7,9 +7,9 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+import br.edu.univas.CintiaMarianaOliveira.entities.SupplierEntity;
 import br.edu.univas.si7.topicos.product.entities.ProductEntity;
 import br.edu.univas.si7.topicos.product.reposioties.ProductRepository;
-import br.univas.CintiaMarianaOliveira.entities.SupplierEntity;
 
 
 
